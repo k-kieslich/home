@@ -1,10 +1,10 @@
 ---
 title: "University of Amsterdam, Amsterdam School of Communication Research"
 collection: teaching
-#type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/Teaching_UvA
-#venue: "University of Amsterdam, Amsterdam School of Communication Research"
-#date: 2023-10-01
+venue: "University of Amsterdam, Amsterdam School of Communication Research"
+date: 2023-10-01
 location: "Amsterdam, Netherlands"
 ---
 

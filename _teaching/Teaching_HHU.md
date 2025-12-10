@@ -1,10 +1,10 @@
 ---
 title: "Heinrich Heine University, Düsseldorf"
 collection: teaching
-#type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/Teaching_HHU
-#venue: "University of Amsterdam, Amsterdam School of Communication Research"
-#date: 2023-10-01
+venue: "Heinrich Heine University, Department of Social Sciences"
+date: 2018-04-01
 location: "Düsseldorf, Germany"
 ---
 
