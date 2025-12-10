@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kimon Kieslich Homepage"
+title                    : "Kimon Kieslich, PHD"
 title_separator          : "-"
 name                     : &name "Kimon Kieslich"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Johannesburg, South Africa"
-  employer         : "University of Hohenheim | \n University of Pretoria"
+  employer         : "University of Hohenheim"
   uri              : # URL
   email            : "k.kieslich@uni-hohenheim.de" 
 
