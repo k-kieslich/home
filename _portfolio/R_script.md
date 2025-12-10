@@ -1,7 +1,7 @@
 ---
 title: "R - An introductory script"
 excerpt: "This script was developed as teaching material for the statistical analysis courses at Heinrich Heine University"
-collection: Tools
+collection: Portfolio
 #date: 2021-11-09
 paperurl: 'https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=58006'
 ---
