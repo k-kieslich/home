@@ -1,5 +1,5 @@
 ---
-title: "“But what is the alternative?!” - The impact of generative AI on academic knowledge production in times of science under pressure"
+title: "But what is the alternative?! - The impact of generative AI on academic knowledge production in times of science under pressure"
 collection: publications
 category: manuscripts
 permalink: /publication/IPR
