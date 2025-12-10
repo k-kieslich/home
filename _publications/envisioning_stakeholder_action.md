@@ -3,7 +3,7 @@ title: "Envisioning Stakeholder-Action Pairs to Mitigate Negative Impacts of AI:
 collection: publications
 category: manuscripts
 permalink: /publication/envisioning_stakeholder_action
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2025-06-23
 venue: 'Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
