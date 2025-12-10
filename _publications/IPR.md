@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/IPR
 excerpt: ''
-date: 2025-29-04
+date: 2025-04-29
 venue: 'Internet Policy Review'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://policyreview.info/articles/news/what-alternative-impact-generative-ai-academic-knowledge-production-times-science'
