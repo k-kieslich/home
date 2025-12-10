@@ -7,4 +7,3 @@ venue: "International AlgoSoc's conference The Future of Public Values in the Al
 date: 2025-04-10
 location: "Amsterdam, Netherlands"
 ---
-
