@@ -1,0 +1,14 @@
+---
+title: "Implications of AI (un-)fairness in higher education admissions: the effects of perceived AI (un-)fairness on exit, voice and organizational reputation"
+collection: publications
+category: manuscripts
+permalink: /publication/AI_unfairness
+excerpt: ''
+date: 2020-01-27
+venue: 'Proceedings of the Conference on Fairness, Accountability, and Transparency (FAccT)'
+#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3351095.3372867'
+#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Marcinkowski, F., Kieslich, K., Starke, C., & Lünich, M. (2020). Implications of AI (Un-)Fairness in Higher Education Admissions: The Effects of Perceived AI (Un-)Fairness on Exit, Voice and Organizational Reputation. Conference Proceeding of the ACM conference on Fairness, Accountability, and Transparency (ACM FAT*). https://doi.org/10.1145/3351095.3372867'
+---
+Algorithmic decision-making (ADM) is becoming increasingly important in all areas of social life. In higher education, machine-learning systems have manifold uses because they can efficiently process large amounts of student data and use these data to arrive at effective decisions. Despite the potential upsides of ADM systems, fairness concerns are gaining momentum in academic and public discourses. The criticism largely focuses on the disparate effects of ADM. That is, algorithms may not serve as objective and fair decision-makers but, rather, reproduce biases existing within the respective training data. This study adopted a different approach by focusing on individual perceptions of fairness. Specifically, we looked at two different dimensions of perceived fairness: (i) procedural fairness and (ii) distributive fairness. Using cross-sectional survey data (n = 304) from a large German university, we tested whether students' assessments of fairness differ with respect to algorithmic vs. human decision-making (HDM) within the higher education context. Furthermore, we investigated whether fairness perceptions have subsequent effects on three different outcome variables, which are hugely important for universities: (1) exit, (2) voice, and (3) organizational reputation. The results of our survey suggest that participants evaluated ADM higher than HDM in terms of both procedural and distributive fairness. Concerning the subsequent effects of fairness perceptions, we find that (1) distributive fairness as well as procedural fairness perceptions have a negative impact on the intention to protest against an ADM system, whereas (2) only procedural fairness perceptions negatively affect the likelihood of exiting. Finally, (3) distributive fairness, but not procedural fairness perceptions have a positive effect on organizational reputation. For universities aiming to implement ADM systems, it is crucial, therefore, to take possible fairness issues and their further implications into account.
