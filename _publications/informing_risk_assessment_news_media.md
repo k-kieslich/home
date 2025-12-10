@@ -3,7 +3,7 @@ title: "Informing AI Risk Assessment with News Media: Analyzing National and Pol
 collection: publications
 category: manuscripts
 permalink: /publication/informing_risk_assessment_news_media
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2025-10-15
 venue: 'Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
