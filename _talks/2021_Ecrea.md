@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence: A promising future or a serious threat? An investigation into media coverage and public perceptions of AI in German"
+title: "Artificial Intelligence: A Promising Future or a Serious Threat? An Investigation into Media Coverage and Public Perceptions of AI in Germany"
 collection: talks
 type: "Talk"
 permalink: /talks/2021_Ecrea

@@ -1,7 +1,7 @@
 ---
 title: "Informing AI Risk Assessment with News Media: Analyzing National and Political Variation in the Coverage of AI Risks"
 collection: publications
-category: manuscripts
+category: book
 permalink: /publication/dissertation
 excerpt: ''
 date: 2024-04-25
