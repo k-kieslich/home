@@ -2,7 +2,7 @@
 title: "Meinungsmonitor Künstliche Intelligenz 2.0. Methodensteckbrief: Monitor- und Sonderbefragung."
 excerpt: "This report describes the survey material developed in the Opinion Monitor Artificial Intelligence project."
 collection: Tools
-date: 2022-07-01
+#date: 2022-07-01
 paperurl: 'https://www.cais-research.de/forschung/memoki/'
 ---
 
