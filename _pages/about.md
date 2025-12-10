@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kimon Kieslich, PhD"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,13 +22,13 @@ impact of AI-systems and regulations at University of Amsterdam under supervisio
 
 10/2022 - 04/2023 - Research Analyst at Goldmedia GmbH Strategy Consulting in Berlin
 
-04/2018 - 09/2022 - Research Assistant at Heinrich Heine University Düsseldorf in the research project Opinion Monitor Artificial Intelligence and at the chair communication science I. 
+04/2018 - 09/2022 - Research Assistant at Heinrich Heine University Düsseldorf in the research project Opinion Monitor Artificial Intelligence and at the chair communication science 1. 
 
 06/2013 - 03/2018 - Student Research Assitants in various projects at the University of Münster.
 
 Education
 ------
-2024 - PhD in Sommunication Science (magna cum laude) at the University of Hohenheim.
+2024 - PhD in Sommunication Science (magna cum laude) at the University of Hohenheim
 
 2018 - Master of Arts in Communication Science (high distinction) at University of Münster
 

@@ -8,7 +8,7 @@ permalink: /teaching/Teaching_UvA
 #location: "Amsterdam, Netherlands"
 ---
 
-Statistical Reasoning: Theory and Application (WT2024) & Statistical Modelling for Communication Research (WT2023)
+Statistical Reasoning: Theory and Application & Statistical Modelling for Communication Research 
 
 In these courses I tought statistical reasoning to BA communication science students at the Amsterdam School of Communication Research (ASCoR). Topics included in these courses were linear regression, mediation, moderation, ANOVAs, sampling distributions, and probablity models. Data analysis was performed in SPSS.
 
