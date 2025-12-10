@@ -8,7 +8,7 @@ date: 2023-2024
 location: "Amsterdam, Netherlands"
 ---
 
-# Statistical Reasoning: Theory and Application & Statistical Modelling for Communication Research
+Statistical Reasoning: Theory and Application & Statistical Modelling for Communication Research
 
 In this course I tought statistical reasoning to communication science students. Topics included were linear regression, mediation, moderation, ANOVAs, sampling distributions, and probablity models. Data analysis was performed in SPSS.
 
