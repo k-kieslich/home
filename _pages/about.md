@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, 
-
-my name is Kimon and I am a social scientist working on socio-technial impacts of data-driven technologies. My academic focus lies on risk assessment and management of data-driven technologies, governance of AI, human-machine interaction, and the impacts on AI on individuals and society.
+Hi, my name is Kimon and I am a social scientist working on socio-technial impacts of data-driven technologies. My academic focus lies on risk assessment and management of data-driven technologies, governance of AI, human-machine interaction, and the impacts on AI on individuals and society.
 
 I am currently working as a postdoctoral fellow at the African German Centre for Sustainable and Resilient Food Systems and Applied Agricultural and Food Data Science [(UKDULA)](https://ukudla.uni-hohenheim.de/en) at the University of Hohenheim situated at the University of Pretoria. I am also affiliated with the [AI, Media & Democracy Lab](https://www.aim4dem.nl/) at the University of Amsterdam. 
 
