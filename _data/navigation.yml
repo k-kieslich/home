@@ -20,13 +20,13 @@ main:
   - title: "Tools"
     url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   #- title: "CV"
   #  url: /cv/
     
-  # - title: "CV"
+  # - title: "CV"W
   #   url: /cv-json/
     
   #- title: "Guide"
