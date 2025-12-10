@@ -1,7 +1,7 @@
 ---
 title: 'IViR “Science Fiction & Information Law” writing competition – The Technologised Future of Truth'
 date: 2025-12-10
-permalink: /posts/ivir4
+permalink: /posts/2025/12/ivir4/
 tags:
   - IViR
   - science-fiction

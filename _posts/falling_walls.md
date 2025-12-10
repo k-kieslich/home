@@ -1,7 +1,7 @@
 ---
 title: 'Jury member for the Falling Walls Science Slam in Johannesburg, South Africa'
 date: 2025-07-22
-permalink: /posts/falling_walls
+permalink: /posts/2025/12/falling_walls/
 tags:
   - science slam
   - south africa
