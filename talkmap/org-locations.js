@@ -1,11 +1,11 @@
 var addressPoints = [
   [
-    "ransforming Risk Assessments Practices: A Call for a Shift Towards Qualitative and Anticipatory Methods.<br />Information Law and Policy Centre\u2019s (ILPC) Annual Conference; London, UK",
+    "Transforming Risk Assessments Practices: A Call for a Shift Towards Qualitative and Anticipatory Methods.<br />Information Law and Policy Centre\u2019s (ILPC) Annual Conference; London, UK",
     51.5074456,
     -0.1277653
   ],
   [
-    "ChatGPT: What are reasonably foreseeable risks from using you?\u201d A scenario-based approach to identifying \u2018reasonably foreseeable risks\u2019 under the European AI Act<br />Gikii; Utrecht, Netherlands",
+    "ChatGPT: What are reasonably foreseeable risks from using you? A scenario-based approach to identifying \u2018reasonably foreseeable risks\u2019 under the European AI Act<br />Gikii; Utrecht, Netherlands",
     52.0907006,
     5.1215634
   ],
@@ -15,37 +15,37 @@ var addressPoints = [
     5.3259192
   ],
   [
-    "Using scenario-based sociotechnical envisioning for value-driven risk assessment.<br />International AlgoSoc's conference The Future of Public Values in the Algorithmic Society; Amsterdam, Netherlands",
+    "Using Scenario-Based Sociotechnical Envisioning for Value-Driven Risk Assessment.<br />AlgoSoc Conference on The Future of Public Values in the Algorithmic Society; Amsterdam, Netherlands",
     52.3730796,
     4.8924534
   ],
   [
-    "Artificial Intelligence: A promising future or a serious threat? An investigation into media coverage and public perceptions of AI in German<br />European Communication Conference [ECREA]; online",
+    "Artificial Intelligence: A Promising Future or a Serious Threat? An Investigation into Media Coverage and Public Perceptions of AI in Germany<br />European Communication Conference [ECREA]; online",
     43.5904719,
     3.8595132
   ],
   [
-    "Envision the Future of AI in the News Media<br />The Joint Computation + Journalism European Data & Computational Journalism Conference; Z\u00fcrich, Switzerland",
+    "Envisioning the Future of AI in the News Media<br />The Joint Computation + Journalism and European Data & Computational Journalism Conference; Z\u00fcrich, Switzerland",
     47.3744489,
     8.5410422
   ],
   [
-    "What Audience to Expect for Science Communication on AI<br />ision4AI Theme Development Workshop AI: Mitigating Bias and Disinformation; online",
+    "What Audience to Expect for Science Communication on AI<br />Vision4AI Theme Development Workshop AI: Mitigating Bias and Disinformation; online",
     43.5904719,
     3.8595132
   ],
   [
-    "Exploring the impacts of Generative AI on access to justice.<br />International Legal Ethics Conference; Amsterdam, Netherlands",
+    "Exploring the Impacts of Generative AI on Access to Justice.<br />International Legal Ethics Conference; Amsterdam, Netherlands",
     52.3730796,
     4.8924534
   ],
   [
-    "Refugees Welcome? Media Coverage, Political Communication and the Creation of Fear.<br />ECREA\u2019s imterim conference of the political communication section; Z\u00fcrich, Switzerland",
+    "Refugees Welcome? Media Coverage, Political Communication and the Creation of Fear.<br />ECREA\u2019s interim conference of the political communication section; Z\u00fcrich, Switzerland",
     47.3744489,
     8.5410422
   ],
   [
-    "Exploring Diverse Future Pathways of Technology Impact on Individuals and Society: Stimulating a Critical Reflection with Scenario-Writin<br />Workshop at the Center for Advanced Internet Studies (CAIS); Bochum, Germany",
+    "Exploring Diverse Future Pathways of Technology Impact on Individuals and Society: Stimulating a Critical Reflection with Scenario-Writing<br />Center for Advanced Internet Studies (CAIS); Bochum, Germany",
     51.4818111,
     7.2196635
   ],
