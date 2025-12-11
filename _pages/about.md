@@ -27,7 +27,7 @@ since 12/2025: Postdoctoral Fellow at the African German Centre for Sustainable 
 
 Education
 ------
-2024: PhD in Sommunication Science (magna cum laude) at the University of Hohenheim
+2024: PhD in Communication Science (magna cum laude) at the University of Hohenheim
 
 2018: Master of Arts in Communication Science (high distinction) at University of Münster
 
