@@ -17,7 +17,7 @@ Career Trajectory
 ------
 since 12/2025: Postdoctoral Fellow at the African German Centre for Sustainable and Resilient Food Systems and Applied Agricultural and Food Data Science (UKUDLA) at University of Hohenheim and University of Pretoria with the research project *Socio-Technical Futures of Food Systems*.
 
-05/2023 - 06/2025: Postdoctoral Researcher in the project *Anticipating AI Impact in a Diverse Society* at the University of Amsterdam in coopeation with Northwestern University (US) | Member of the AI, Media, & Democracy Lab.
+05/2023 - 06/2025: Postdoctoral Researcher in the project *Anticipating AI Impact in a Diverse Society* at the University of Amsterdam in coopeation with Northwestern University (US) and Member of the AI, Media, & Democracy Lab.
 
 10/2022 - 04/2023: Research Analyst at Goldmedia GmbH Strategy Consulting in Berlin.
 
