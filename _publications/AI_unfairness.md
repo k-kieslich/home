@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/AI_unfairness
 excerpt: ''
 date: 2020-01-27
-venue: 'Proceedings of the Conference on Fairness, Accountability, and Transparency (FAccT)'
+venue: 'Conference Proceeding of the ACM conference on Fairness, Accountability, and Transparency (ACM FAT*)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3351095.3372867'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'

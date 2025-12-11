@@ -8,7 +8,7 @@ date: 2018-04-01
 location: "Düsseldorf, Germany"
 ---
 
-Methods Training, Theory Seminars, Empirical Research Seminars & Thesis Supervision
+Methods Training, Theory Seminars, Empirical Research Seminars & Theses Supervision
 
 Methods training:
 
