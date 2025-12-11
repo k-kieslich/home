@@ -1,5 +1,5 @@
 ---
-title: "Informing AI Risk Assessment with News Media: Analyzing National and Political Variation in the Coverage of AI Risks"
+title: "The role of public opinion on ethical AI principles and its implication for a common good-oriented implementation. "
 collection: publications
 category: books
 permalink: /publication/dissertation

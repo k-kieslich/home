@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/neurips_media
 excerpt: ''
 date: 2024-12-14
-venue: 'NeurIPS workshop Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI (EvalEval).'
+venue: 'NeurIPS workshop Evaluating Evaluations: Examining Best Practices for Measuring Broader Impacts of Generative AI (EvalEval)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2411.02536'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'

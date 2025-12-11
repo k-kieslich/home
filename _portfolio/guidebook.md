@@ -12,4 +12,4 @@ Rather than accurately predicting the future, scenario writing aims to imagine p
 
 This method aims to contextualise use-scenarios for researchers and policy makers to better understand and reduce the potential risk of new technologies in society.
 
-Interested in using this method, or learning more about use cases? Read the full publication here. 
+Interested in using this method, or learning more about use cases? Read the full publication [here](https://www.aim4dem.nl/guidebook-on-scenario-based-sociotechnical-envisioning/). 
