@@ -50,6 +50,11 @@ var addressPoints = [
     4.8924534
   ],
   [
+    "Public Opinion and its Critical Role for Highlighting Lived Experiences in Risk Identification and Risk Evaluation Practices for Risk Management Approaches.<br />13th Biennial Conference of the Standing Group on the European Union; Catania, Italy",
+    37.5023612,
+    15.0873718
+  ],
+  [
     "Envisioning the Future of AI in the News Media<br />The Joint Computation + Journalism and European Data & Computational Journalism Conference; Z\u00fcrich, Switzerland",
     47.3744489,
     8.5410422
@@ -58,6 +63,11 @@ var addressPoints = [
     "Feeling iffy about generative AI: When journalists disclose AI use, trust in news is lower.<br />ICA 2026 Preconference: Practicing Trust: Media, Machines and Methods; Cape Town, South Africa",
     -33.9288301,
     18.4172197
+  ],
+  [
+    "\u201cBut what is the alternative?!\u201d - The impact of generative AI on academic knowledge production in times of science under pressure.<br />Biennial Conference of the European Association for the Study of Science and Technology (EASST); Krakow, Poland",
+    50.0619474,
+    19.9368564
   ],
   [
     "Exploring Diverse Future Pathways of Technology Impact on Individuals and Society: Stimulating a Critical Reflection with Scenario-Writing<br />Center for Advanced Internet Studies (CAIS); Bochum, Germany",
